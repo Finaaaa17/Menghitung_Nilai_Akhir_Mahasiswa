@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Menghitung_Nilai_Mahasiswa/1.0.0": {
+        "runtime": {
+          "Menghitung_Nilai_Mahasiswa.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Menghitung_Nilai_Mahasiswa/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\Fina Khairunnisa\Documents\Nilai Mahasiswa\Menghitung_Nilai_Mahasiswa\bin\Debug\net6.0\Menghitung_Nilai_Mahasiswa.exe
+C:\Users\Fina Khairunnisa\Documents\Nilai Mahasiswa\Menghitung_Nilai_Mahasiswa\bin\Debug\net6.0\Menghitung_Nilai_Mahasiswa.deps.json
+C:\Users\Fina Khairunnisa\Documents\Nilai Mahasiswa\Menghitung_Nilai_Mahasiswa\bin\Debug\net6.0\Menghitung_Nilai_Mahasiswa.runtimeconfig.json
+C:\Users\Fina Khairunnisa\Documents\Nilai Mahasiswa\Menghitung_Nilai_Mahasiswa\bin\Debug\net6.0\Menghitung_Nilai_Mahasiswa.dll
+C:\Users\Fina Khairunnisa\Documents\Nilai Mahasiswa\Menghitung_Nilai_Mahasiswa\bin\Debug\net6.0\Menghitung_Nilai_Mahasiswa.pdb
+C:\Users\Fina Khairunnisa\Documents\Nilai Mahasiswa\Menghitung_Nilai_Mahasiswa\obj\Debug\net6.0\Menghitung_Nilai_Mahasiswa.csproj.AssemblyReference.cache
+C:\Users\Fina Khairunnisa\Documents\Nilai Mahasiswa\Menghitung_Nilai_Mahasiswa\obj\Debug\net6.0\Menghitung_Nilai_Mahasiswa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fina Khairunnisa\Documents\Nilai Mahasiswa\Menghitung_Nilai_Mahasiswa\obj\Debug\net6.0\Menghitung_Nilai_Mahasiswa.AssemblyInfoInputs.cache
+C:\Users\Fina Khairunnisa\Documents\Nilai Mahasiswa\Menghitung_Nilai_Mahasiswa\obj\Debug\net6.0\Menghitung_Nilai_Mahasiswa.AssemblyInfo.cs
+C:\Users\Fina Khairunnisa\Documents\Nilai Mahasiswa\Menghitung_Nilai_Mahasiswa\obj\Debug\net6.0\Menghitung_Nilai_Mahasiswa.csproj.CoreCompileInputs.cache
+C:\Users\Fina Khairunnisa\Documents\Nilai Mahasiswa\Menghitung_Nilai_Mahasiswa\obj\Debug\net6.0\Menghitung_Nilai_Mahasiswa.dll
+C:\Users\Fina Khairunnisa\Documents\Nilai Mahasiswa\Menghitung_Nilai_Mahasiswa\obj\Debug\net6.0\refint\Menghitung_Nilai_Mahasiswa.dll
+C:\Users\Fina Khairunnisa\Documents\Nilai Mahasiswa\Menghitung_Nilai_Mahasiswa\obj\Debug\net6.0\Menghitung_Nilai_Mahasiswa.pdb
+C:\Users\Fina Khairunnisa\Documents\Nilai Mahasiswa\Menghitung_Nilai_Mahasiswa\obj\Debug\net6.0\Menghitung_Nilai_Mahasiswa.genruntimeconfig.cache
+C:\Users\Fina Khairunnisa\Documents\Nilai Mahasiswa\Menghitung_Nilai_Mahasiswa\obj\Debug\net6.0\ref\Menghitung_Nilai_Mahasiswa.dll
